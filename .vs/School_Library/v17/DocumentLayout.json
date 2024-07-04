@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{045D72DF-892F-4597-95CE-1879AAA45EA4}|School_Library.csproj|c:\\users\\user\\desktop\\assignment_collab\\school_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045D72DF-892F-4597-95CE-1879AAA45EA4}|School_Library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D72DF-892F-4597-95CE-1879AAA45EA4}|School_Library.csproj|c:\\users\\user\\desktop\\assignment_collab\\school_library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045D72DF-892F-4597-95CE-1879AAA45EA4}|School_Library.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D72DF-892F-4597-95CE-1879AAA45EA4}|School_Library.csproj|c:\\users\\user\\desktop\\assignment_collab\\school_library\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045D72DF-892F-4597-95CE-1879AAA45EA4}|School_Library.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D72DF-892F-4597-95CE-1879AAA45EA4}|School_Library.csproj|c:\\users\\user\\desktop\\assignment_collab\\school_library\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045D72DF-892F-4597-95CE-1879AAA45EA4}|School_Library.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAYAAADAv8Ns/TcXwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:57:50.687Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:32:56.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAAA0AAAAAkhVFSMgjwBoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:56:31.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Assignment_Collab\\School_Library\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC4AAAAAdzO8iEkMwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:55:16.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
